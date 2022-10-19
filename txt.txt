@@ -1,0 +1,21 @@
+Criando um Container de uma Aplicação WEB
+
+Definição de um Cluster Swarm Local com o Vagrant
+
+Criando um Deploy de uma Aplicação
+
+Criando um Pipeline de Deploy com GitLab e Kubernetes
+
+Desenhando Sua Organização com Folder e Projetos e Grupos de Acessos
+
+Definição de Orçamento de Billing
+
+Exportação do Billing
+
+Personalizando Dashboard e Trocando as Preferências de Idioma
+
+Utilizando o Cloud Shell
+
+Criando Pipeline de CI/CD com Cloud Build e Terraform
+
+Finalize todos conteúdos até a data 04/12/2022 e certifique seu conhecimento.
